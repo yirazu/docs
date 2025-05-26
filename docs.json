@@ -10,10 +10,10 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Casey Guide",
+        "tab": "Overview",
         "groups": [
           {
-            "group": "Einführung",
+            "group": "Overview",
             "pages": [
               "index"
             ]
