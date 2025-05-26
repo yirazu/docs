@@ -7,11 +7,18 @@
     "dark": "#1A365D"
   },
   "favicon": "/favicon-casey.svg",
-"navigation": {
+  "navigation": {
     "tabs": [
       {
-        "tab": "Overview",
-        "groups": []
+        "tab": "a",
+        "groups": [
+          {
+            "group": "Overview",
+            "pages": [
+              "index"
+            ]
+          }
+        ]
       }
     ],
     "global": {
@@ -19,7 +26,7 @@
         {
           "anchor": "Discord",
           "href": "https://discord.gg/yourlink",
-          "icon": "discord"
+          "icon": "slack"
         },
         {
           "anchor": "Website",
