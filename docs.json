@@ -1,6 +1,9 @@
 {
   "theme": "mint",
   "name": "Casey",
+  "custom": {
+    "css": ["/custom.css"]
+  },
   "colors": {
     "primary": "#1E90FF",
     "light": "#63B3ED",
