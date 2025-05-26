@@ -10,7 +10,7 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "a",
+        "tab": "Docs", 
         "groups": [
           {
             "group": "Overview",
@@ -39,5 +39,8 @@
   "logo": {
     "light": "/logo/casey-light.svg",
     "dark": "/logo/casey-dark.svg"
+  },
+  "custom": {
+    "css": ["/custom.css"]
   }
 }

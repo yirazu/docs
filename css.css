@@ -1,0 +1,9 @@
+/* Tabs visuell entfernen */
+.tab-container {
+  display: none !important;
+}
+
+/* Optional: extra Abstand oben korrigieren */
+.sidebar {
+  padding-top: 0 !important;
+}
