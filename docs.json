@@ -10,17 +10,31 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Overview",
+        "tab": "Casey Guide",
         "groups": [
           {
-            "group": "Overview",
+            "group": "Einführung",
             "pages": [
               "index"
             ]
           }
         ]
       }
-    ]
+    ],
+    "global": {
+      "anchors": [
+        {
+          "anchor": "Discord",
+          "href": "https://discord.gg/yourlink",
+          "icon": "slack"
+        },
+        {
+          "anchor": "Website",
+          "href": "https://yourwebsite.com",
+          "icon": "globe"
+        }
+      ]
+    }
   },
   "logo": {
     "light": "/logo/casey-light.svg",
