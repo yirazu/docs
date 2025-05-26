@@ -2,7 +2,7 @@
   "theme": "mint",
   "name": "Casey",
   "custom": {
-    "css": ["/styles/custom.css"]
+    "css": ["/public/custom.css"]
   },
   "colors": {
     "primary": "#1E90FF",
@@ -44,6 +44,6 @@
     "dark": "/logo/casey-dark.svg"
   },
   "custom": {
-    "css": ["/styles/custom.css"]
+    "css": ["/public/custom.css"]
   }
 }
