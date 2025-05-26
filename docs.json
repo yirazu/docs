@@ -1,5 +1,4 @@
 {
-  "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
   "name": "Casey",
   "colors": {
@@ -11,36 +10,17 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Casey Guide",
+        "tab": "Overview",
         "groups": [
           {
-            "group": "Einführung",
+            "group": "Overview",
             "pages": [
-              "index",
-              "casey-overview",
-              "casey-installation"
-            ]
-          },
-          {
-            "group": "Anleitung",
-            "pages": [
-              "guide/first-steps",
-              "guide/features",
-              "guide/customization"
+              "index"
             ]
           }
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "GitHub",
-          "href": "https://github.com/yourcaseyrepo",
-          "icon": "github"
-        }
-      ]
-    }
+    ]
   },
   "logo": {
     "light": "/logo/casey-light.svg",
